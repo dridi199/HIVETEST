@@ -1,0 +1,8 @@
+target/
+metastore_db/
+.project
+.classpath
+mylog*
+*.log
+*.out
+.settings/
